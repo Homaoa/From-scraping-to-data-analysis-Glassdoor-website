@@ -1,0 +1,871 @@
+,Title,City,Salary,Rating,Company
+0,DATA SCIENTIST-HEALTHCARE,"Dayton, OH",$56K - $96K ,3.6,Premier Health
+1,Data Scientist,"Washington, DC",$78K - $150K ,3.9,Deloitte
+2,Data Scientist,"Lorton, VA",$120K ,2.6,QinetiQ Inc.
+3,Data Scientist with TS Clearance,"Arlington, VA",$86K - $154K ,3.9,Deloitte
+4,Data Scientist Principal,"Hagerstown, MD",$73K - $137K ,4,JLG Equipment Services Inc
+5,Sr. Data Scientist,"Chicago, IL",$83K - $138K ,3.7,CNA Insurance
+6,Machine Learning Engineer,"Cambridge, MA",$78K - $115K ,4.8,MORSE Corp
+7,Staff Data Scientist,"Boston, MA",$96K - $170K ,3.6,"Alteryx, Inc."
+8,Scientist I or II,"Salt Lake City, UT",$67K - $68K ,3.7,"BioFire Diagnostics, LLC."
+9,Data Scientist,"Atlanta, GA",$67K - $113K ,2.8,IFG Companies
+10,Senior Scientist,"Alexandria, MN",$68K - $97K ,3.5,LGC Limited
+11,Data Scientist with Polygraph,"Rosslyn, VA",$80K - $148K ,3.9,Deloitte
+12,Data Scientist,"Portland, ME",$65K - $107K ,3.8,Unum
+13,Research Data Scientist,"Rockville, MD",$77K - $133K ,3.8,Intelligent Automation
+14,Research Scientist I - Essentia,"Ankeny, IA",$62K - $120K ,2.8,The Lauridsen Group
+15,Staff Data Scientist,"Tempe, AZ7d",NaN,3.5,Freedom Financial Network
+16,Data Engineer,"Boise, ID",$65K - $123K ,3.6,AmerisourceBergen
+17,Data Scientist,"Laurel, MD",$100K - $160K ,4.7,Johns Hopkins Applied Physics Laboratory (APL)
+18,Lead / Senior Data Scientist,"Austin, TX",$73K - $142K ,3.7,Dealerware
+19,Data Engineer,"Ogden, UT",$56K - $111K ,3.8,America First Credit Union
+20,Principal Scientist,"Branford, CT",$76K - $155K ,3.7,IsoPlexis
+21,Scientist,"Louisville, KY",$47K - $96K ,3.4,Louisville Water Company
+22,Data Scientist,"Fairfax, VA",$61K - $77K ,4,"Array Information Technology, Inc."
+23,Sr. Manager Advanced Analytics (Data Scientist),"Arlington, VA",$85K - $153K ,3.6,Lidl US
+24,Data Analyst,"Orlando, FL",$44K - $79K ,4.1,MMM Holdings
+25,"Data Engineer – Fairfax, VA","Fairfax, VA",$73K - $141K ,3.3,Vibrent Health
+26,Data Scientist,"Columbus, OH",$65K - $114K ,3.4,Safelite Group
+27,Research Scientist,"Reston, VA",$79K - $201K ,3.4,"Metron, Inc."
+28,Scientist,"San Diego, CA",$53K - $115K ,2.5,ACON Laboratories
+29,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+30,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+31,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+32,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+33,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+34,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+35,"Data Engineer, Data Science",RemoteHiring Surge30d+,NaN,4.1,Numerator
+36,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+37,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+38,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+39,Data Scientist,"New York, NYNew24h",NaN,3.7,AllianceBernstein
+40,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+41,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+42,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+43,Data Scientist - Remote Nationwide,"San Antonio, TX2d",NaN,3.6,UnitedHealth Group
+44,Data Scientist,"San Jose, CATop Company30d+",NaN,4.1,PayPal
+45,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+46,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+47,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+48,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+49,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+50,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+51,Biological Data Scientist,"Richland, WANew24h",NaN,4.2,Pacific Northwest National Laboratory
+52,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+53,Data Scientist/Machine Learning,Remote,$67 - $69 Per Hour,NaN,Vezita Tech Inc
+54,Machine Learning Engineer,"Mountain View, CA28d",NaN,3.9,TikTok
+55,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+56,Statistician (contract),RemoteTop Company13d,NaN,4.2,Pfizer
+57,Data Scientist,Remote5d,NaN,2.8,U.Group
+58,Data Scientist-Senior,"Washington, DC",$119K - $201K ,3.5,Perspecta
+59,Scientist - New Product Development,"Lancaster, PA",$48K - $72K ,3.8,Armstrong World Industries
+60,Ph.D. Scientist,"Novato, CAHot.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply8d",NaN,NaN,Marin Biologic Laboratories
+61,Data Scientist Senior Manager,"Gilbert, AZ",$98K - $183K ,3.9,Deloitte
+62,"Research Scientist, Level 2","Catonsville, MD",$79K - $103K ,4.2,ManTech International Corporation
+63,Senior Data Analyst,"Los Angeles, CA",$82K - $155K ,4,PubNub
+64,Research Scientist - Metabolic Pathways,"Blacksburg, VA",$70K - $124K ,NaN,"Landos Biopharma, Inc."
+65,Data Scientist,"Washington, DC",$92K - $182K ,4.1,Copper River Shared Services
+66,Financial Data Analyst (South of Milwaukee),"Milwaukee, WI",$65K - $79K ,3.6,Uline
+67,Data Integrator/Data Engineer,"Fort Bragg, NCEasy Apply5d",NaN,4,"RDR, INC."
+68,Fleet Coordinator (Data Analyst),"Tampa, FL",$42K - $79K ,3.8,Valet Living
+69,Data Engineer,"Milwaukee, WI",$60K - $114K ,NaN,Sift Healthcare
+70,SCIENTIST - BIOPHARMACEUTICALS,"Middleton, WI",$33K - $63K ,4,PPD
+71,Technology Transfer Scientist,"Carlsbad, CAEasy Apply15d",NaN,NaN,Lumos Diagnostics
+72,Data Scientist,"Herndon, VA",$79K - $131K ,3.6,"ATCS, P.L.C."
+73,Customer Success Jr. Data Scientist,"Folsom, CA",$69K - $121K ,NaN,"Opeeka, Inc."
+74,Artificial Intelligence/Machine Learning Engineer Associate,"McLean, VA",$69K - $143K ,3.8,Mitre Corporation
+75,Scientist/Senior Scientist_Immuno-oncology,"Gaithersburg, MD",$60K - $128K ,5,"Salubris Biotherapeutics, Inc."
+76,Associate Consumer Scientist,"Caryville, TN",$33K - $76K ,4.3,BSH Home Appliances Group
+77,Financial Data Analyst,"Pleasant Prairie, WI",$65K - $79K ,3.6,Uline
+78,"Data Scientist, Medical Diagnostics","Mountain View, CA",$88K - $150K ,3.5,Specific Diagnostics
+79,Data Analyst,"Anchorage, AK",$40K - $79K ,3.4,Alaska Heart and Vascular Institute
+80,"Senior Remediation Engineer, Geologist, Scientist","El Dorado, AR",$62K - $117K ,3.4,Clean Harbors
+81,Data Scientist Manager,"Arlington, VA",$92K - $180K ,3.9,Deloitte
+82,Data Scientist - Defense &amp; Intelligence,"Fort Meade, MD",$89K - $133K ,4.3,Elder Research Inc
+83,Analytical Technologies Scientist I,"San Diego, CA",$83K - $157K ,4,Ajinomoto Bio-Pharma Services
+84,Enterprise Applications &amp; Analytics Manager,"Schaumburg, IL",$75K - $127K ,NaN,Fugen Technology Corporation
+85,Data Analyst,"Dana Point, CA",$50K - $107K ,NaN,Alter Management LLC
+86,Lead Wetland Scientist,"Westborough, MA",$41K - $84K ,3.7,SWCA Environmental Consultants
+87,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+88,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+89,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+90,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+91,Data Scientist/Machine Learning,Remote,$67 - $69 Per Hour,NaN,Vezita Tech Inc
+92,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+93,Data Scientist - Remote Nationwide,"San Antonio, TXNew2d",NaN,3.6,UnitedHealth Group
+94,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+95,"Data Engineer, Data Science",RemoteHiring Surge30d+,NaN,4.1,Numerator
+96,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+97,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+98,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+99,Data Scientist,"New York, NY24h",NaN,3.7,AllianceBernstein
+100,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+101,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+102,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+103,Data Scientist,"San Jose, CATop Company30d+",NaN,4.1,PayPal
+104,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+105,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+106,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+107,Senior Data Scientist (Remote-friendly),Remote30d+,NaN,4.2,Noom Inc.
+108,Senior Data Analyst (contract or full time),Remote,$96 - $108 Per Hour,4,Confidential Priviately-Held Company
+109,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+110,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+111,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+112,Biological Data Scientist,"Richland, WA24h",NaN,4.2,Pacific Northwest National Laboratory
+113,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+114,Machine Learning Engineer,"Mountain View, CA28d",NaN,3.9,TikTok
+115,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+116,GBSD Data Scientist,"Roy, UT8d",NaN,4,Northrop Grumman
+117,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+118,Data Scientist,"Centennial, CO.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}New1d",NaN,3.3,Arrow Electronics
+119,Senior Data Scientist,Remote,$110K - $140K ,NaN,competitive balance analytics
+120,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+121,Data Scientist,Remote,$80K - $125K ,2.8,JM Talent Inc.
+122,Data Scientist - Wearables,Remote,$80K - $190K ,NaN,Invisalert Solutions
+123,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+124,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+125,Data Scientist,"Columbus, OH28d",NaN,3.4,Safelite Group
+126,Senior Data Scientist (Remote-friendly),Remote30d+,NaN,4.2,Noom Inc.
+127,Data Scientist,"Cassville, MO4d",NaN,3.4,Walmart
+128,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+129,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+130,Data Review Scientist,"Newark, DEHiring Surge24h",NaN,3.4,Charles River Laboratories
+131,Data Scientist,"Hillsboro, OR24h",NaN,4.2,Intel
+132,Data Scientist 1,"Burlington, MANew24h",NaN,3.7,Oracle
+133,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+134,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+135,Data Scientist,"Greensboro, NC",$36K - $51K ,3.6,LMS
+136,Data Scientist,"Salt Lake City, UT27d",NaN,NaN,Zartico
+137,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+138,Imaging Data Scientist,"Hillsboro, ORNew24h",NaN,4.2,Intel
+139,Data Science &amp; Analytics,"South Jordan, UT30d+",NaN,NaN,Digital Trike
+140,Data Scientist,Remote15d,NaN,3.8,O'Reilly Media
+141,Data Entry,RemoteNewEasy Apply2d,NaN,3,TransPerfect Translations Inc.
+142,Data Scientist,"Lehi, UT",$70K - $90K ,4.6,Xyngular
+143,Vitria Data Scientist,"Menlo Park, CA30d+",NaN,3.5,Vitria Technology
+144,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+145,Data Scientist 2,"Philadelphia, PAEasy Apply15d",NaN,3.6,Day & Zimmermann - Corporate TA
+146,Senior Data Engineer,"Reston, VA",$70K - $129K ,4.6,Novetta
+147,Data Scientist,"Miami Lakes, FL",$60K - $129K ,NaN,FinTrust Search Group
+148,"Medical Laboratory Scientist, IRL - Night Shift 1 1 1","San Antonio, TX",$40K - $73K ,2.2,BioBridge Global
+149,Scientist - Analytical Development - Pharmaceutics,BristolEasy Apply4d,NaN,NaN,UPM Pharmaceuticals
+150,Big Data Engineer/Developer,"McLean, VA",$81K - $147K ,4.2,ManTech International Corporation
+151,Hire and Train Data Scientist/ Engineer,"San Francisco, CA",$83K - $146K ,3.7,Cognizant Technology Solutions
+152,Data Engineer (Remote Opportunities Available),"Oklahoma City, OK",$54K - $100K ,NaN,Bison Technologies
+153,"Sr. Scientist, Cell Therapy R&amp;D","Telford, PA",$59K - $115K ,2.7,"Secant Group, LLC"
+154,Supply Chain Data Analyst (South of Milwaukee),"Milwaukee, WI",$46K - $83K ,3.6,Uline
+155,Certifying Scientist - Toxicology,"Reno, NV",$50K - $123K ,4.4,MD Labs
+156,Battery Management Systems (BMS) Scientist,"Woburn, MA",$66K - $134K ,4.1,SolidEnergy Systems
+157,Cloud Data Engineer for Autonomous Driving,"Newark, CA",$94K - $130K ,4.1,Lucid Motors
+158,Senior Data Engineer,"Providence, RI",$91K - $153K ,3.6,VirginPulse
+159,"NGS Scientist, Library Prep","Newark, CA",$108K - $197K ,4.2,Stealth Mode Startup
+160,Investments Intermediate Quantitative Analyst,"Chicago, IL",$56K - $114K ,NaN,Allstate Insurance Company
+161,Senior DTC Data Analyst,"Portland, OR",$66K - $132K ,4,Columbia Sportswear
+162,Data Scientist,"Overland Park, KS",$60K - $115K ,NaN,Sunlighten (435/Metcalf)
+163,Experienced Data Engineer,"Indianapolis, IN",$77K - $90K ,3.8,Liberty Mutual Insurance
+164,Performance Improvement Data Analyst,"Chicago, IL",$61K - $71K ,3.3,RML Specialty Hospital
+165,Data Engineer,"Chantilly, VA",$72K - $128K ,3.9,"General Dynamics Mission Systems, Inc"
+166,Research Assistant or Scientist I,"Kansas City, KS",$32K - $46K ,3.3,"Sekisui XenoTech, LLC"
+167,Principal Scientist - Assay Development,"Branford, CT",$61K - $130K ,3.7,IsoPlexis
+168,Microsoft Data &amp; Analytics Practice Lead,"Troy, MIEasy Apply4d",NaN,NaN,WIT Inc
+169,Digital Marketing &amp; Data Analyst,"KenTownshipood, MI",$35K - $75K ,3,"Hull Lift Truck, Inc."
+170,Jr. Data Engineer - (Hire and Train),"Tampa, FL",$57K - $107K ,3.7,Cognizant Technology Solutions
+171,Data Engineer - MB,"Rosemont, IL",$71K - $89K ,3.5,Martin Brower
+172,LC/MS Protein Characterization Scientist,"San Diego, CA",$60K - $119K ,3.3,Eurofins
+173,"Research Scientist, Immuno-Oncology (PhD Required)","Blacksburg, VAEasy Apply24d",NaN,NaN,"BioTherapeutics, Inc."
+174,Senior Data Scientist,"Los Angeles, CA.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Actively Hiring27d",NaN,4,Kforce
+175,"Research Scientist, Immuno-Oncology (PhD Required)","Blacksburg, VAEasy Apply24d",NaN,NaN,"BioTherapeutics, Inc."
+176,Analytic Consultant - Federal,"Washington, DC",$60K - $111K ,4.1,ASR ANALYTICS LLC
+177,Senior Data Engineer,"Decatur, GANewEasy Apply24h",NaN,NaN,Rinchem Company Inc.
+178,Marketing Data Scientist - Texas or Michigan,"Dallas, TX",$102K - $122K ,3.9,Comerica Bank
+179,Data Engineer,"Chantilly, VA",$81K - $163K ,4.3,Noblis
+180,Data Scientist,"Alexandria, VA",$83K - $98K ,3.8,"InnovaSystems International, LLC"
+181,Data Scientist,"Milwaukee, WI",$71K - $126K ,3.6,Clarios
+182,Financial Data Analyst (North of Chicago),"Chicago, IL",$65K - $79K ,3.6,Uline
+183,Principal Scientist / Analytical Chemistry,"Rush, NY",$146K - $172K ,NaN,iuvo BioScience
+184,Principal Marketing Scientist,"Livonia, MI",$72K - $137K ,3.5,Valassis
+185,Sr. Data Engineer,"Ann Arbor, MI",$90K - $170K ,3.6,"Alteryx, Inc."
+186,Research Associate/Scientist - Protein Kinase Assays,"Marlborough, MA",$52K - $99K ,4,Bevov
+187,Data Engineer,"Urbandale, IA",$55K - $103K ,4.2,"Brokers International, Ltd."
+188,SR DATA ARCHITECT-DIGITAL HLTH,"Dayton, OH",$129K - $142K ,3.6,Premier Health
+189,Data Engineer,"Baltimore, MD",$66K - $128K ,NaN,CreditXpert
+190,Senior Data Analyst,"Atlanta, GA",$71K - $110K ,3.8,Unum
+191,Scientist / Biologist - GMP QC,"Exton, PA",$37K - $41K ,3.4,Absorption Systems
+192,Licensed Clinical Laboratory Scientist,"Atwater, CA",$53K - $106K ,NaN,"Castle Family Health Centers, Inc"
+193,Senior Data Engineer,"New Haven, CT",$81K - $137K ,3.4,AVANGRID
+194,Senior Data Scientist,"Boulder, CO",$90K - $162K ,5,Cloud Agronomics
+195,Data Scientist,"Westborough, MA",$65K - $113K ,3.1,Olympus Corporation of the Americas
+196,Health Care Data Scientist,"Irving, TX",$91K - $149K ,4.2,"Vizient, Inc."
+197,Data Scientist,"Anderson, MO",$61K - $113K ,3.4,Walmart
+198,Scientist-II Cellular Engineering,"San Antonio, TX",$40K - $87K ,2.2,BioBridge Global
+199,Data Analyst,"Philadelphia, PA",$44K - $84K ,3.1,Gift of Life Donor Program
+200,Web and Marketing Data Analyst,"Newport News, VA",$46K - $95K ,3.6,Ferguson
+201,Machine Learning Engineer,"Plano, TX",$68K - $109K ,3.8,Liberty Mutual Insurance
+202,Data Scientist II (Remote),"Carlsbad, CA",$70K - $118K ,3.8,Thermo Fisher - America
+203,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+204,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+205,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+206,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+207,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+208,"Data Engineer, Data Science",RemoteHiring Surge30d+,NaN,4.1,Numerator
+209,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+210,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+211,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+212,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+213,Data Scientist,"New York, NYNew24h",NaN,3.7,AllianceBernstein
+214,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+215,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+216,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+217,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+218,Data Scientist,"San Jose, CATop Company30d+",NaN,4.1,PayPal
+219,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+220,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+221,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+222,Biological Data Scientist,"Richland, WA24h",NaN,4.2,Pacific Northwest National Laboratory
+223,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+224,Data Scientist - Remote Nationwide,"San Antonio, TX2d",NaN,3.6,UnitedHealth Group
+225,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+226,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+227,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+228,Statistician (contract),RemoteTop Company13d,NaN,4.2,Pfizer
+229,Data Scientist,Remote5d,NaN,2.8,U.Group
+230,Data Engineer,"Jersey City, NJNew1d",NaN,3.7,Cognizant Technology Solutions
+231,"Machine Learning, Data Scientist - Marketing",Remote7d,NaN,4.1,Getty Images
+232,NLP - MRP Data Scientist,Remote.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hot6d,NaN,4.3,Espire Services
+233,Scientist / Biologist - GMP QC,"Exton, PA",$37K - $41K ,3.4,Absorption Systems
+234,Licensed Clinical Laboratory Scientist,"Atwater, CA",$53K - $106K ,NaN,"Castle Family Health Centers, Inc"
+235,Senior Data Engineer,"New Haven, CT",$81K - $137K ,3.4,AVANGRID
+236,"Marking Mix/ Multi-Touch Attribution Analytics Manager, Team Lead","New York, NY",$53K - $103K ,3.4,KANTAR
+237,Data Scientist,"Westborough, MA",$65K - $113K ,3.1,Olympus Corporation of the Americas
+238,Product Research and Development Scientist,"Granville, OH",$68K - $116K ,3.9,OWENS CORNING
+239,Data Scientist,"Anderson, MO",$61K - $113K ,3.4,Walmart
+240,Scientist-II Cellular Engineering,"San Antonio, TX",$40K - $87K ,2.2,BioBridge Global
+241,Senior Data Engineer (Polygraph Clearance),"Chantilly, VA",$79K - $139K ,4.2,ManTech International Corporation
+242,Data Analyst,"Philadelphia, PA",$44K - $84K ,3.1,Gift of Life Donor Program
+243,Machine Learning Engineer,"Plano, TX",$68K - $109K ,3.8,Liberty Mutual Insurance
+244,Web and Marketing Data Analyst,"Newport News, VA",$46K - $95K ,3.6,Ferguson
+245,Scientist II or higher,"Kansas City, KS",$48K - $60K ,3.3,"Sekisui XenoTech, LLC"
+246,"Research Scientist - Computer Vision, Machine Learning","Rockville, MD",$67K - $130K ,3.8,Intelligent Automation
+247,Analytical Scientist,"Malvern, PA",$48K - $86K ,NaN,Flamma USA
+248,Senior Operations Research Scientist,"Laurel, MD",$96K - $183K ,4.7,Johns Hopkins Applied Physics Laboratory (APL)
+249,"Sr. Data Engineer – Fairfax, VA","Fairfax, VA",$92K - $159K ,3.3,Vibrent Health
+250,Bioanalytical - Institute Associate Scientist II,"Houston, TX",$46K - $74K ,4.3,MD Anderson Cancer Center
+251,"Lead Product Manager Data Platform, Enterprise Apps (Remote - US)",United StatesHiring Surge6d,NaN,4.8,DISQO
+252,Senior Data Scientist,Remote6d,NaN,NaN,competitive balance analytics
+253,Clinical Laboratory Scientist-International Travelling required,"Diamond Bar, CA",$49K - $107K ,NaN,Confidential
+254,Senior Data Analyst,"Honolulu, HI",$61K - $115K ,2.6,AlohaCare
+255,Fraud Data Analyst,"Augusta, ME",$35K - $61K ,3.4,Knowledge Services
+256,Sr. Validation Scientist 30557 Process Validation Equipment Qualification,"Juncos, PREasy Apply26d",NaN,NaN,CIS International LLC
+257,Data Scientist,"Fort Lauderdale, FL",$73K - $120K ,NaN,Webstore Group
+258,"Clinical Laboratory Scientist, Full Time, Evening Shift","Lodi, CA",$25 - $41 Per Hour,3.6,Adventist Health
+259,Data Science Engineer,"Jacksonville, FLEasy Apply25d",NaN,3.8,The CSI Companies
+260,Network Analytics Manager,"Hanover, MD",$68K - $144K ,4.1,Johns Hopkins Health Care
+261,Lead Data Scientist,"Wellesley, MA.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply4d",NaN,3.8,Harnham
+262,Senior / Principal Big Data Engineer,"Austin, TX",$104K - $135K ,3.4,BlackBerry
+263,"Scientist IV, Quality Control","Spokane, WA",$54K - $114K ,3.7,Jubilant HollisterStier Spokane
+264,Senior Data Scientist,"Topeka, KS",$95K - $150K ,4.2,Hill's Pet Nutrition
+265,Research Scientist - Radar,"Rockville, MD",$82K - $156K ,3.8,Intelligent Automation
+266,Senior Research Scientist Cell Line/Upstream Process Development,"San Diego, CAEasy Apply7d",NaN,NaN,Mapp Biopharmaceutical
+267,Staff Data Analyst (Digitalization),"Tempe, AZActively Hiring7d",NaN,3.5,Freedom Financial Network
+268,Environmental Scientist/Technical Writer,"Amarillo, TX",$36K - $79K ,3.2,Talon/LPE
+269,Data Science Manager,"Wilmington, DE",$65K - $136K ,4.1,"Continental Finance Company, LLC"
+270,Data Scientist-Journeyman,"Washington, DC",$83K - $135K ,3.5,Perspecta
+271,Data Scientist,"Trumbull, CT",$82K - $133K ,3.2,HPOne
+272,"Data Engineer, Analytics","Pasadena, CAHiring Surge24h",NaN,3.9,Spokeo
+273,"Clinical Laboratory Scientist (CLS), Full Time, Nights","Willits, CA",$54K - $97K ,3.6,Adventist Health
+274,GBSD Data Scientist,"Roy, UT",$64K - $129K ,NaN,Northrop Grumman
+275,Enterprise Analytics Consultant (Full time employee),"Whippany, NJ",$66K - $122K ,3.6,ConnectiveRx
+276,Scientist/ Manager – Process Analytics,"Cambridge, MA",$82K - $161K ,3.1,Evelo Biosciences
+277,Senior Research Scientist - Robotic and Autonomous Systems,"Rockville, MD",$77K - $157K ,3.8,Intelligent Automation
+278,GBSD Data Scientist,"Roy, UT",$67K - $121K ,4,Northrop Grumman
+279,Data Scientist (Predictive Modeler),"Vienna, VA",$85K - $141K ,4.1,Navy Federal Credit Union
+280,Business Analyst - Data Science,"Fort Wayne, IN",$48K - $87K ,3.7,MedPro Group
+281,"Clinical Scientist, Genetics Lab Director","Tulsa, OK",$44K - $91K ,3.7,Saint Francis Health System
+282,Data Scientist,"Durham, NC",$72K - $117K ,4.5,TARGET PHARMASOLUTIONS
+283,"Sr. Scientist/Principal Scientist, Immunology","Seattle, WAEasy Apply5d",NaN,NaN,Mozart Therapeutics
+284,Associate Scientist or Research Associate,"Ashland, MA",$37K - $66K ,NaN,MatTek Life Sciences
+285,Data Analyst,"New York, NY",$75K - $85K ,4.1,Sharecare Inc
+286,Corporate Quality Data Analyst,"Danbury, CT",$45K - $93K ,3.3,"Health Quest Systems, Inc."
+287,Business Intelligence Data Analyst,"Greensboro, GA19d",NaN,3.9,BANKSOUTH
+288,"Associate Scientist, Process Development &amp; Manufacturing 1","San Antonio, TX",$33K - $72K ,2.2,BioBridge Global
+289,Machine Learning Engineer,"Wharton, NJ",$136K - $151K ,3.5,Perspecta
+290,Data Architect,"Laurel, MD",$84K - $160K ,4.7,Johns Hopkins Applied Physics Laboratory (APL)
+291,Machine Learning Engineer,"Wharton, NJ",$136K - $151K ,3.5,Perspecta
+292,"Scientist, Workflow Development Group (MA)","Marlborough, MA",$66K - $132K ,3.8,Akoya Biosciences
+293,Data Scientist,"Norfolk, VA",$65K - $120K ,3.9,Herdt Consulting Inc
+294,Data Engineer,"Quincy, MA",$60K - $109K ,3,Atlantic Broadband
+295,Data Engineer,"Chantilly, VA",$90K - $148K ,NaN,SIEGE Technologies
+296,Medical Laboratory Scientist,"Decatur, IL",$19 - $27 Per Hour,3.9,Memorial Health
+297,Business Data Analyst,"Parsippany, NJ",$53K - $103K ,NaN,"Pressler, Felt & Warshaw, LLP."
+298,Data Scientist,"Fort Lauderdale, FL",$65K - $110K ,5,ARC Group
+299,Data Analyst,"Bethesda, MD",$49K - $89K ,3.8,CACI
+300,Data Solutions Engineer,"Miramar Beach, FLNewEasy Apply1d",NaN,NaN,Moorecroft Systems
+301,Data Science Engineer,"Madison, WIEasy Apply18d",NaN,4,AE Business Solutions
+302,"Associate Scientist / Scientist I, Protein Biochemistry","Hayward, CA",$82K - $165K ,NaN,"Fornia BioSolutions, Inc."
+303,Data Engineer Manager - Remote,"Atlanta, GA",$62K - $122K ,4.1,Bellhops
+304,"Geologist, Hydrogeologist or Environmental Scientist","Anchorage, AK",$37K - $72K ,NaN,"Terrasat, Inc."
+305,"Sr. Scientist, Biopharmaceutical Development - Protein &amp; Gene Therapy","Irvine, CA",$81K - $158K ,1.8,Nitto Avecia Pharma Services
+306,Flow Cytometry Scientist,"Doylestown, PA",$44K - $97K ,NaN,"FlowMetric Life Sciences, Inc."
+307,Lead Data Scientist - Search,"Charlotte, NC",$66K - $115K ,4.4,Darwin Recruitment
+308,"AVP, ETL Developer/Data Engineer","Livingston, NJ",$136K - $158K ,3.3,CIT Group
+309,Senior Clinical Scientist,"Newton, MAEasy Apply13d",NaN,NaN,Allena Pharmaceuticals
+310,Healthcare Data Analyst - Quality Outcomes Managment,"Hershey, PA",$53K - $66K ,3.9,Penn State Health Milton S. Hershey Medical Center
+311,"Mid-Level Environmental Scientist / Geologist, Req. 2021005","Schaumburg, IL",$60K - $92K ,NaN,Specialty Consulting Inc.
+312,Senior Data Engineer,"Watertown, MA",$96K - $153K ,4.2,Athenahealth
+313,Certifying Scientist (2nd or 3rd Shift),"Greenville, SC",$109K - $132K ,NaN,Luxor Scientific
+314,Clinical Laboratory Scientist (Generalist),"Benicia, CA",$53K - $115K ,NaN,1CARE Medical Diagnostics
+315,Data Engineer,"Arlington, VA",$70K - $129K ,4.9,IntraFi Network
+316,Scientist / Sr. Scientist - HPLC,"Exton, PA",$52K - $56K ,3.4,Absorption Systems
+317,Data Engineer,"South Bend, IN",$119K - $130K ,NaN,Aunalytics
+318,Senior Data Analytics Advisor,"Boron, CA",$97K - $103K ,4,Rio Tinto
+319,Managed Care Data Analyst,FloridaActively Hiring.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply12d,NaN,4.3,Sarasota Memorial Hospital - Venice
+320,Data Scientist,"New York, NY",$84K - $142K ,3.6,Epsilon
+321,Data Scientist II,"Los Angeles, CANewEasy Apply1d",NaN,NaN,O'Neil Global Advisors
+322,Computer Scientist Level 2,"Fort Meade, MD",$99K - $127K ,3.8,CACI
+323,Data Engineer/Scientist TS/SCI w/POLY,"Tysons Corner, VA",$95K - $120K ,NaN,AUGR LLC
+324,Data Engineer,"Arlington, VA",$70K - $129K ,4.9,IntraFi Network
+325,Data Engineer- TS/SCI Clearance Required,"Chantilly, VAEasy Apply12d",NaN,NaN,"QR Solutions, LLC"
+326,Clinical Research Scientist,"Watertown, MA",$35K - $67K ,3.3,"Lyra Therapeutics, Inc."
+327,Data Scientist,"Fort Gordon, GA",$82K - $154K ,NaN,"Roccomar, Inc."
+328,Healthcare Data Analyst (Accountable Care Organization),"Palm Springs, FL",$40K - $59K ,3.8,"Palm Beach Accountable Care Organization, LLC"
+329,Scientist - Ocular,"San Diego, CA",$53K - $76K ,3.4,Absorption Systems
+330,Media Analytics Manager,RemoteNew24h,NaN,NaN,Media Matters Worldwide
+331,Modeling &amp; Experimental Research Scientist for Materials in Extreme Environments,"Laurel, MD",$61K - $122K ,4.7,Johns Hopkins Applied Physics Laboratory (APL)
+332,QA Data Review Specialist (Pharmaceutical),Bristol,$29K - $77K ,NaN,UPM Pharmaceuticals
+333,Senior Data Engineer,"Watertown, MA",$96K - $153K ,4.2,Athenahealth
+334,Data Scientist,"Valley View Heights, OH",$70K - $123K ,3.6,Citizens
+335,Data Scientist,Remote8d,NaN,4.5,WAVELY
+336,Senior Data Consultant,"Austin, TX",$121K - $137K ,NaN,Apgar Consulting
+337,Data Analyst,"Nashville, TN",$35K - $68K ,3.4,Knowledge Services
+338,Data Engineer,"Camden, NJ",$76K - $133K ,3.3,NFI Industries
+339,Imagery Analyst Scientist,"Menlo Park, CAEasy Apply5d",NaN,3.8,Akoya Biosciences
+340,Clinical Data Analyst,"San Francisco, CA",$60K - $132K ,NaN,Confidential
+341,Clinical Laboratory Technologist - Medical Laboratory Scientist 1st Shift,"Buffalo, NY",$43K - $77K ,2.7,"OmniSeq, Inc."
+342,Data Scientist,"Atlanta, GA",$86K - $144K ,4,Cox Communications Inc
+343,"Scientist, Workflow Development Group (CA)","Menlo Park, CA",$58K - $118K ,3.8,Akoya Biosciences
+344,Data Scientist - AI Labs,"New York, NY",$113K - $190K ,4.1,BlackRock
+345,Image Data Scientist - Computational Pathology,"San Diego, CAEasy Apply4d",NaN,NaN,Reveal Biosciences
+346,Payer Analytics Manager,"Deerfield, IL",$65K - $136K ,3.9,Lundbeck
+347,Research Scientist / Engineer – Wireless Communications &amp; Machine Learning,"Rockville, MD",$82K - $156K ,3.8,Intelligent Automation
+348,Data Scientist-Senior,"Washington, DC",$119K - $201K ,3.5,Perspecta
+349,"Acoustic Signal Processing Engineer - Data Scientist, Machine Learning","Columbia, MD",$65K - $93K ,NaN,Signal Systems Corporation
+350,Staff Scientist Assay Development,"Austin, TX",$93K - $179K ,3.8,Thermo Fisher - America
+351,Senior Data Scientist,"Denver, CO",$87K - $153K ,3.8,CACI
+352,Data Architect/ Senior/ Principal Data Modeler,"Plano, TX",$61K - $135K ,3.9,"Daman, Inc."
+353,Data Analyst,"Phoenix, AZ",$44K - $80K ,3.1,Knight Transportation
+354,Senior Data Scientist,"Tempe, AZ",$114K - $142K ,2,Global Nephrology Solutions
+355,"Sr. Scientist, Bioreactor Process Design","Redmond, WA",$68K - $129K ,4.8,Just - Evotec Biologics
+356,Machine Learning Scientist,"Egg Harbor Township, NJ",$84K - $148K ,3.8,Battelle
+357,Data Analyst,"Houston, TX6d",NaN,4,Kforce
+358,Data Scientist,"Cincinnati, OH",$73K - $117K ,3.8,Fifth Third Bank
+359,Travel Clinical Lab Scientist / CLS,CaliforniaEasy Apply9d,NaN,4.6,LRS Healthcare
+360,Geospatial Researcher/Data Scientist,"Alexandria, VA",$72K - $124K ,3.8,Battelle
+361,Data Engineer,"Oklahoma City, OK",$52K - $106K ,3.4,First Fidelity Bank
+362,Data Scientist,"Bellevue, WA7d",NaN,4,System One
+363,Azure Data Engineer,"Los Angeles, CA",$81K - $139K ,4.1,Avanade
+364,Data Warehouse Engineer / Modeler,Remote11d,NaN,NaN,Verstand AI
+365,eCommerce/Marketing Data Analyst,"Arlington Heights, IL",$52K - $96K ,3.4,Hopkins Manufacturing Corporation
+366,Data Analyst,"Bloomington, IN",$44K - $84K ,3.6,National Salvage & Service Corporation
+367,Data Engineer,"Orlando, FL",$66K - $91K ,NaN,Lakeland Regional Health
+368,"Senior Staff Scientist, NGS DNA Amplification","Newark, CA",$152K - $180K ,4.2,Stealth Mode Startup
+369,Senior Data Scientist - Defense &amp; Intelligence,"Fort Meade, MD",$84K - $108K ,4.3,Elder Research Inc
+370,Data Analyst - Anthem BHI,"Sacramento, CA",$28K - $52K ,2.7,WellSpace Health
+371,Data Science Manager,"New York, NY",$87K - $182K ,3.4,Biz2Credit Inc.
+372,Quality Data Analyst Coordinator,"Fort Washakie, WY",$31K - $70K ,NaN,Connections Healthcare Staffing
+373,Sr. Business Intelligence Analyst,"Bellevue, WA",$54K - $112K ,3.9,Inviso Corporation
+374,"Senior Deep Learning Scientist, Mapping &amp; Localization - Autonomous Vehicles","Redmond, WA",$123K - $201K ,4.8,NVIDIA
+375,"Associate Scientist, Reagents (Menlo Park, CA)","Menlo Park, CA",$103K - $121K ,3.8,Akoya Biosciences
+376,Staff Data Engineer (Oracle ERP/HCM),"Tempe, AZ",$62K - $115K ,3.5,Freedom Financial Network
+377,"Senior Deep Learning Scientist, Mapping &amp; Localization - Autonomous Vehicles","Redmond, WA",$123K - $201K ,4.8,NVIDIA
+378,"Associate Scientist, Reagents (Menlo Park, CA)","Menlo Park, CA",$103K - $121K ,3.8,Akoya Biosciences
+379,Staff Data Engineer (Oracle ERP/HCM),"Tempe, AZ",$62K - $115K ,3.5,Freedom Financial Network
+380,Principal Scientist – Battery Cell Development,"Chico, CA",$88K - $176K ,NaN,"Nanotech Energy, Inc."
+381,Data Modeler,"Dover, NH",$66K - $127K ,3.8,Liberty Mutual Insurance
+382,Computer Scientist Level 3,"Fort Meade, MD",$68K - $114K ,3.8,CACI
+383,Senior Data Scientist,"Chicago, IL",$90K - $160K ,4.1,BrainWorks
+384,Senior Actuarial Data Scientist,"Newport Beach, CA",$91K - $110K ,3.7,Pacific Life
+385,Senior Environmental Scientist and Toxicologist,"Charlottesville, VA",$73K - $92K ,NaN,MBDC
+386,Oracle PL/SQL Data Engineer (REMOTE),"Stamford, CT",$100K - $140K ,3.8,CareCentrix
+387,Quality Improvement Data Analyst - Nutrition,"Boston, MA",$49K - $97K ,4.1,Boston Children's Hospital
+388,Operations Metrics - Data Analyst,"Indianapolis, IN",$48K - $104K ,3.4,Knowledge Services
+389,"Senior Scientist, Formulations","Bothell, WA",$69K - $131K ,3.9,Lundbeck
+390,Data Scientist II,"Louisville, CO",$74K - $132K ,3.8,Sierra Nevada Corporation
+391,Clinical Lab Scientist,"San Diego, CA",$50K - $92K ,1.7,DermTech
+392,Data Scientist,"North Miami, FL",$66K - $107K ,NaN,TalentoHCM
+393,"Principal Scientist, High Throughput Analytical","Redmond, WA",$95K - $192K ,4.8,Just - Evotec Biologics
+394,Medical Lab Scientist (MLS) Mercy Health St. Elizabeth Youngstown,"Youngstown, OH",$17 - $24 Per Hour,3.6,Mercy Health
+395,Signal and Information Processing Research Scientist,"Reston, VA",$64K - $135K ,3.4,"Metron, Inc."
+396,Sr Business Intelligence Analyst,"Grants Pass, OREasy Apply1d",NaN,NaN,ALLCARE HEALTH
+397,Sr. Data Analyst Manager,"Irvine, CA",$73K - $152K ,3.6,"CPT Group, Inc."
+398,Data Scientist,"Washington, DCEasy Apply1d",NaN,NaN,Funded.club
+399,Sr Data Engineer- W2 only- 10+ years experience,"San Jose, CA",$108K - $177K ,NaN,iCloudNexus
+400,Analytics Consultant - Clinical Operations – 1212 Deming Way,"Madison, WI",$64K - $118K ,3.9,UW Health
+401,Data Scientist,"Lake Forest, ILHiring SurgeEasy Apply24h",NaN,4.2,Peterson Technology Partners
+402,Senior Data Scientist,"Washington, DC",$98K - $176K ,NaN,"TechSource, Inc."
+403,GBSD Principal Data Scientist,"Roy, UT",$77K - $146K ,4,Northrop Grumman
+404,Data Scientist,Remote7d,NaN,NaN,JM Talent Inc.
+405,Business Intelligence Analyst,"Mascoutah, ILEasy Apply14d",NaN,4.4,SyllogisTeks
+406,Data Scientist - 516078,"Rancho Cucamonga, CA",$62K - $128K ,NaN,Revel IT
+407,Head of Data Science,"Westlake, TXActively Hiring5d",NaN,3.9,Charles Schwab
+408,Senior Battery Scientist/Engineer,"Newberry, INEasy Apply22d",NaN,3.6,BrightVolt
+409,Quality Data Analyst,"Liverpool, NY",$41K - $77K ,3.5,Lifeplan
+410,Senior Data Engineer,"Portsmouth, NH",$97K - $175K ,NaN,Market Street Talent
+411,ERP Data Analyst,"Fort Mill, SC",$39K - $68K ,NaN,Wikoff Color Corp
+412,Lead Data Engineer,Remote13d,NaN,NaN,Interior Define
+413,Business Data Analyst - Operations,"Indianapolis, IN",$46K - $96K ,3.4,Knowledge Services
+414,Business Intelligence Analyst- Florida Applicant Only,"Boca Raton, FL",$46K - $92K ,3.4,TouchSuite
+415,Customer Service Data Analyst - Albuquerque or Remote Work Option,"Albuquerque, NM",$45K - $81K ,3.2,PNM Resources
+416,Business Intelligence Architect/Data Scientist,"Atlanta, GAEasy Apply6d",NaN,NaN,Starr and Associates
+417,R&amp;D Analytical Manager,"Chattanooga, TN",$114K ,NaN,ProStaff Solutions Inc
+418,"VP of Data, MMM","Columbia, MD",$96K - $207K ,NaN,Corporate Brokers
+419,Senior Research Associate/Associate Scientist - Genetic Diseases,"Cambridge, MAHot9d",NaN,NaN,Scismic
+420,Data Scientist,"Chicago, IL4d",NaN,3.5,Kelly
+421,Data Scientist,"Stamford, CTEasy Apply11d",NaN,4.2,Brooksource
+422,DDM – Data Scientist,"New York, NY",$77K - $152K ,3.4,Biz2Credit Inc
+423,GBSD Principal Data Scientist,"Roy, UT",$77K - $146K ,4,Northrop Grumman
+424,Biomedical Data Scientist,"Frederick, MD",$81K - $134K ,3.9,Leidos
+425,Senior Data Scientist,"Bethesda, MD",$93K - $168K ,3.9,Leidos
+426,Business Intelligence Analyst,"Mascoutah, ILEasy Apply14d",NaN,4.4,SyllogisTeks
+427,SAS Data Engineer,"Arlington, VA",$74K - $143K ,3.6,CareJourney
+428,Application Scientist/Lab manager - Diabetes Research,"Chicago, IL",$52K - $107K ,NaN,O2M Technologies
+429,Mortgage Records Data Analyst,"Fort Washington, PA",$30K - $55K ,3.6,NewRez
+430,Sr. Health Policy Data Analyst,"Nashville, TN",$60K - $108K ,3.8,Vanderbilt University Medical Center
+431,"Principal Scientist 2, In Vitro","Worcester, MA",$72K - $146K ,3.4,Charles River Laboratories
+432,Big Data Engineer,"Chantilly, VA",$78K - $163K ,4,Peraton
+433,"Senior Clinical Scientist/Director, Clinical Science","Hampton, NJ",$53 - $90 Per Hour,3.7,"Celldex Therapeutics, Inc."
+434,Medical Lab Technician/Medical Laboratory Scientist (MLS/MT) - New Vision Lab Mercy Health - Full Time,"Lima, OH",$41K - $76K ,3.6,Mercy Health
+435,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+436,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+437,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+438,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+439,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+440,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+441,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+442,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+443,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+444,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+445,Data Scientist,"New York, NYNew24h",NaN,3.7,AllianceBernstein
+446,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+447,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+448,Biological Data Scientist,"Richland, WA24h",NaN,4.2,Pacific Northwest National Laboratory
+449,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+450,Data Scientist 1,"Timonium, MDTop Company4d",NaN,4.1,PayPal
+451,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+452,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+453,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+454,Data Scientist - Remote Nationwide,"San Antonio, TX2d",NaN,3.6,UnitedHealth Group
+455,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+456,Data Engineer,"Jersey City, NJNew1d",NaN,3.7,Cognizant Technology Solutions
+457,Machine Learning Engineer,"Mountain View, CA28d",NaN,3.9,TikTok
+458,Data Scientist - Entry Level,"Livermore, CATop Company12d",NaN,4.6,Lawrence Livermore National Laboratory
+459,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+460,Sr. Data Scientist,Remote,$150K - $165K ,4,Innovar Group
+461,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+462,Data Scientist,"Austin, TX19d",NaN,4.3,YETI Coolers
+463,Data Scientist,Remote5d,NaN,2.8,U.Group
+464,Data Scientist,"College Park, MD",$61K - $103K ,4.3,University of Maryland
+465,Big Data Engineer .Net,"Washington, DC",$75K - $143K ,NaN,"Nard, LLC"
+466,Fixed Income Data/Quantitative Analyst,"Milwaukee, WI",$47K - $99K ,4,Northwestern Mutual
+467,Data Scientist,"Boston, MA",$81K - $132K ,3.5,Wayfair
+468,Data Scientist,RemoteHiring SurgeEasy Apply5d,NaN,4.5,Braze
+469,System Engineer/Data Modeler,"Fort Meade, MD",$74K - $150K ,NaN,Strategic Analytix
+470,Computer Scientist II,"Tucson, AZ",$81K - $125K ,3.9,"Modular Mining Systems, Inc."
+471,Lead Clinical Laboratory Scientist,"Newport Beach, CA",$56K - $100K ,2.1,"HRC Fertility Management, LLC"
+472,Data Modeler and Developer in GCP,"Denver, CO",$48K - $88K ,3,Transamerica
+473,Data Scientist,"San Francisco, CA",$96K - $162K ,3.9,Clarify Health Solutions.
+474,Data Scientist,"Boston, MA6d",NaN,5,Aquesst
+475,Data Scientist,"Herndon, VA",$101K - $165K ,4.6,Novetta
+476,Data Scientist,"Menlo Park, CA",$104K - $180K ,3.7,Humanyze
+477,Data Scientist,"Honolulu, HI",$80K - $143K ,3.1,Central Pacific Bank
+478,Data Scientist,"Cambridge, MA",$73K - $134K ,4,Sanofi
+479,Data Analyst-HEDIS &amp; Star,"Long Beach, CA",$49K - $91K ,4.1,SCAN Group
+480,Data Scientist,"San Jose, CA",$135K - $174K ,3.6,McAfee
+481,Marketing Data Analyst,"New Rochelle, NY",$47K - $95K ,3,Benchmark Education Company
+482,Data Scientist,"McLean, VA",$91K - $146K ,4.1,Thomson Reuters
+483,Scientist (Primary Cell / Product),"San Diego, CA",$70K - $103K ,NaN,iXCells Biotechnologies
+484,"Senior Scientist, Exploratory Group, Research and Development","Menlo Park, CA",$92K - $145K ,3.8,Akoya Biosciences
+485,"Business Intelligence Analyst - Richmond, VA","Richmond, VA",$47K - $86K ,3.5,Lansing Building Products
+486,Data Scientist,Remote5d,NaN,4.2,AlphaSights
+487,Data Modeler (Data Vault),"Boston, MA",$66K - $127K ,3.8,Liberty Mutual Insurance
+488,Data Scientist,"Pittsburgh, PA",$74K - $118K ,3.7,PNC Financial Services Group
+489,Supply Chain Data Analyst (Local Candidate's Preferred),"Eagle, COEasy Apply13d",NaN,NaN,QuietKat Inc
+490,Data Scientist,"Piscataway, NJHiring Surge21d",NaN,4.3,Scalable Systems
+491,E-Commerce Sale Data Analyst(Bilingual),"Industry, CAEasy Apply6d",NaN,NaN,Winjet Automotive Inc.
+492,RN-Nurse Scientist,"Saint Louis, MO",$53K - $84K ,3.6,SSM Health
+493,Data Scientist,RemoteHot11d,NaN,4.3,Coinbase
+494,Principal Data Scientist / Senior Principal Data Scientist,"Salt Lake City, UT",$91K - $183K ,4,Northrop Grumman
+495,Data Scientist,"Kansas City, MO",$66K - $108K ,4.1,Commerce Bank
+496,Data Scientist,"Chicago, IL",$85K - $145K ,2.6,Care Advisors Inc
+497,Research Scientist - Software Defined Radio,"College Park, MD",$55K - $74K ,3.5,Perspecta
+498,"Data Engineer, Medical Diagnostics","Mountain View, CA",$72K - $133K ,3.5,Specific Diagnostics
+499,"Principal Scientist / Director, Immunology","Boston, MA",$102K - $202K ,5,HotSpot Therapeutics
+500,Data Scientist,"Plainsboro, NJ",$72K - $125K ,NaN,Penfield Search Partners
+501,Data Scientist,RemoteHot6d,NaN,4.9,Balto
+502,Data Scientist,Remote20d,NaN,4.1,Daily Harvest
+503,Data Scientist,"San Mateo, CA",$94K - $162K ,4.6,SetSail
+504,Advanced Healthcare Data Analyst,"Corpus Christi, TX",$36K - $74K ,4.1,Driscoll Children's Hospital
+505,Data Scientist (TS/SCI poly),"Chantilly, VA",$80K - $141K ,4,Northrop Grumman
+506,Data Scientist,RemoteEasy Apply5d,NaN,4.1,Blockchain.com
+507,Data Scientist,"Arlington, VA",$98K - $152K ,4,Visa
+508,Data Scientist,"Austin, TX",$108K - $123K ,4.7,Literati
+509,Data Scientist,"Boston, MA",$76K - $135K ,3.9,McGraw Hill
+510,"Lead, Data Scientist","New York, NY",$117K - $197K ,3.4,Macy’s
+511,Data Scientist,"Omaha, NE",$71K - $112K ,4.3,Buildertrend
+512,Data Science Support Analyst (Senior),"McLean, VA",$95K - $162K ,3.9,BAE Systems
+513,Quantitative Researcher,"San Francisco, CA",$115K - $163K ,NaN,VertiSystem Inc
+514,Sr. Data Analyst,"Dublin, CA",$92K - $186K ,4,Patelco Credit Union
+515,"Data Analyst - Portsmouth, Corporate Headquarters","Portsmouth, NH",$49K - $91K ,3.5,Service Credit Union
+516,Data Scientist,"Los Angeles, CA",$62K - $126K ,4.6,Tatari
+517,"Scientist, QC Cell Assay - Relocation",United States11d,NaN,NaN,"Ology Bioservices, Inc."
+518,Medical Laboratory Scientist,"Traverse City, MIEasy Apply11d",NaN,3.1,AG Globe Services
+519,IT Data Analyst,"Greenville, SC",$52K - $102K ,4.5,Southern Management Corporation
+520,Data Modeler,"Chantilly, VA",$69K - $156K ,3.5,Perspecta
+521,Software Engineer and Scientist,"Half Moon Bay, CA",$100K - $174K ,NaN,"GenNext Technologies, Inc."
+522,Data Scientist,"Culver City, CA",$80K - $145K ,4.6,Kernel
+523,Data Scientist,"Palo Alto, CA6d",NaN,3.6,Jerry
+524,Data Scientist,"San Diego, CA",$123K - $170K ,4.1,Experian
+525,Data Scientist,"Cincinnati, OH",$74K - $121K ,3.9,Western & Southern Financial Group
+526,Data Scientist,New York State.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply28d,NaN,4.1,Enigma
+527,Data Scientist,"College Park, MD",$61K - $103K ,4.3,University of Maryland
+528,Actuary - Data Science &amp; Advanced Analytics,"Aliso Viejo, CA",$89K - $156K ,3.7,Pacific Life
+529,Fixed Income Data/Quantitative Analyst,"Milwaukee, WI",$47K - $99K ,4,Northwestern Mutual
+530,Data Scientist,"Washington, DC",$65K - $111K ,3.8,Analytica
+531,Data Scientist,"Los Altos, CA",$117K - $162K ,NaN,"Alto Neuroscience, Inc."
+532,Data Scientist,"Baltimore, MD",$70K - $103K ,4.3,Emocha Mobile Health Inc
+533,Data Scientist,Remote6d,NaN,4,Pixability
+534,Data Scientist,"Chicago, IL",$70K - $118K ,4.6,Eleks
+535,Data Scientist,RemoteEasy Apply26d,NaN,3.6,Clover Health
+536,Big Data Engineer .Net,"Washington, DC",$75K - $143K ,NaN,"Nard, LLC"
+537,Data Scientist,"San Francisco, CA",$111K - $185K ,4.2,Tubi
+538,Data Scientist,"Minneapolis, MN",$72K - $131K ,4.3,FOODSBY
+539,Data Scientist,"Nashville, TN",$66K - $116K ,3.3,SmileDirectClub
+540,Data Scientist,"Boulder, CO",$91K - $138K ,4.1,Honey
+541,Data Scientist,"Austin, TX",$135K - $151K ,4.3,Cloudflare
+542,Data Scientist - Machine Learning/Cortex Data Science,"Boston, MA",$103K - $173K ,4.2,Twitter
+543,Data Scientist,RemoteHiring SurgeEasy Apply5d,NaN,4.5,Braze
+544,Data Scientist,"Herndon, VA",$62K - $105K ,4.1,LOCKHEED MARTIN CORPORATION
+545,Data Scientist,"New York, NY",$130K - $167K ,4,Disney Streaming Services
+546,Data Scientist,"Boston, MA",$81K - $132K ,3.5,Wayfair
+547,"Data Scientist, Data &amp; Visualization (Contract)","Los Gatos, CA",$97K - $156K ,3.5,STAR Labs
+548,Data Scientist,"Cambridge, MA",$70K - $123K ,4.3,Panjiva
+549,Market Research Data Analyst,"Framingham, MA",$43K - $79K ,3.6,Phoenix Marketing International
+550,Data Scientist,"San Diego, CA",$82K - $124K ,4.3,Knowesis Inc.
+551,GBSD Data Scientist,"Roy, UT8d",NaN,4,Northrop Grumman
+552,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+553,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+554,Senior Data Scientist,Remote,$110K - $140K ,NaN,competitive balance analytics
+555,Data Scientist,"Centennial, CO.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}New1d",NaN,3.3,Arrow Electronics
+556,Data Scientist,Remote,$80K - $125K ,2.8,JM Talent Inc.
+557,Data Scientist - Wearables,Remote,$80K - $190K ,NaN,Invisalert Solutions
+558,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+559,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+560,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+561,Data Scientist,"Columbus, OH28d",NaN,3.4,Safelite Group
+562,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+563,Data Scientist,"Bentonville, AR4d",NaN,3.4,Walmart
+564,Data Scientist 1,"Burlington, MANew24h",NaN,3.7,Oracle
+565,Data Review Scientist,"Newark, DEHiring Surge24h",NaN,3.4,Charles River Laboratories
+566,Data Scientist,"Hillsboro, OR24h",NaN,4.2,Intel
+567,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+568,Data Scientist,"Salt Lake City, UT27d",NaN,NaN,Zartico
+569,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+570,Imaging Data Scientist,"Hillsboro, ORNew24h",NaN,4.2,Intel
+571,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+572,Data Science &amp; Analytics,"South Jordan, UT30d+",NaN,NaN,Digital Trike
+573,Data Scientist,Remote15d,NaN,3.8,O'Reilly Media
+574,Data Scientist,"Salt Lake City, UTHiring SurgeEasy Apply7d",NaN,4,Progrexion
+575,Data Scientist,"Lehi, UT",$70K - $90K ,4.6,Xyngular
+576,Junior Data Scientist,Remote30d+,NaN,3.1,FEDDATA
+577,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+578,Data Entry,RemoteNewEasy Apply2d,NaN,3,TransPerfect Translations Inc.
+579,Junior Data Scientist,Remote13d,NaN,2.9,NewWave HQ
+580,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+581,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+582,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+583,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+584,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+585,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+586,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+587,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+588,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+589,"Bioinformaticist, Research and Development","New York, NY30d+",NaN,NaN,Scismic
+590,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+591,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+592,Data Scientist,"New York, NYNew24h",NaN,3.7,AllianceBernstein
+593,Data Scientist - Remote Nationwide,"San Antonio, TX2d",NaN,3.6,UnitedHealth Group
+594,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+595,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+596,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+597,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+598,Data Scientist 1,"Timonium, MDTop Company4d",NaN,4.1,PayPal
+599,Biological Data Scientist,"Richland, WA24h",NaN,4.2,Pacific Northwest National Laboratory
+600,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+601,Machine Learning Engineer,"Mountain View, CA28d",NaN,3.9,TikTok
+602,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+603,Data Engineer,"Jersey City, NJNew1d",NaN,3.7,Cognizant Technology Solutions
+604,Data Scientist - Entry Level,"Livermore, CATop Company12d",NaN,4.6,Lawrence Livermore National Laboratory
+605,Senior Data Scientist (Remote-friendly),Remote30d+,NaN,4.2,Noom Inc.
+606,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+607,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+608,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+609,Data Scientist,"New York, NY",$107K - $176K ,4.4,Tapad
+610,Data Analyst,"Gold River, CAActively HiringEasy Apply11d",NaN,3.7,Robert Half
+611,Senior Data Engineer,"Chicago, IL",$82K - $143K ,NaN,"Amount, Inc"
+612,Data Scientist,"New York, NY",$67K - $113K ,3.5,Cardlytics
+613,Data Scientist,"Herndon, VA",$73K - $112K ,3.1,"Stride, Inc."
+614,Data Scientist,"Ontario, CA",$99K - $122K ,4.3,Genentech
+615,Data Scientist,"San Diego, CA",$73K - $118K ,3.5,sensemetrics
+616,Data Scientist,"Newark, NJ",$106K - $111K ,3.8,Prudential
+617,Data Scientist,"Glendale, CA",$73K - $127K ,NaN,Posh Peanut Inc.
+618,Data Scientist,"Framingham, MA",$75K - $131K ,3.3,Staples
+619,Data Scientist,"Boston, MA",$64K - $111K ,4.6,OM1
+620,Data Scientist,"Atlanta, GA",$74K - $121K ,3.9,Michelin Inc
+621,Data Scientist,"San Diego, CA",$78K - $125K ,4.8,Power Digital Marketing
+622,Data Scientist,"San Francisco, CA",$81K - $108K ,4,Surya Systems
+623,Data Scientist,"Hanover, MD",$61K - $111K ,5,cloudteam
+624,Data Scientist,Texas4d,NaN,NaN,Victory
+625,Data Scientist,"New York, NY",$85K - $152K ,3.9,Komodo Health
+626,Data Scientist,"Redwood City, CA",$95K - $176K ,4,Paradigm Diagnostics
+627,Data Scientist,"Jersey City, NJHotEasy Apply19d",NaN,4,"ReqRoute,Inc"
+628,Sr. Data Scientist,"Frisco, TX",$113K - $144K ,NaN,Oportun Inc
+629,Data Scientist,RemoteTop CompanyEasy Apply1d,NaN,4.6,Clearcover
+630,Research Fellow - Data Science,"Rochester, MN",$48K - $91K ,4.2,Mayo Clinic
+631,Data Scientist,Remote15d,NaN,3.8,O'Reilly Media
+632,Data Scientist,"San Jose, CAEasy Apply25d",NaN,4.8,Riderflex
+633,Data Scientist,"San Francisco, CA",$130K - $150K ,4.7,Angaza
+634,Data Scientist,"Germantown, MD",$70K - $128K ,3.6,DataLab USA
+635,Data Scientist,RemoteHot11d,NaN,5,JupiterOne
+636,Data Scientist,"Dallas, TX",$67K - $119K ,3.8,Havas
+637,Data Scientist,CaliforniaNewEasy Apply24h,NaN,NaN,Doorstead
+638,"Data Scientist, Product Analytics","Washington, DC",$97K - $155K ,4.3,Facebook
+639,Data Scientist,"Needham, MA",$78K - $135K ,2.8,Steward Health Care Network
+640,Data Scientist,"New York, NY",$101K - $108K ,3.5,BNY Mellon
+641,Data Scientist - Pricing Systems,"Richmond, VA",$101K - $125K ,3.7,CarMax
+642,Data Scientist,"Washington, DC",$73K - $123K ,3.5,Buchanan & Edwards
+643,Data Scientist,"Newtown, CT",$87K - $94K ,3.1,SS&C Technologies
+644,Data Scientist,"Philadelphia, PA",$65K - $112K ,2.9,Wills Eye Hospital
+645,Data Scientist,Remote7d,NaN,3.9,GovernmentCIO LLC
+646,Data Scientist,"Charlottesville, VA",$76K - $131K ,4.3,The Rector & Visitors of the University of Virginia
+647,Data Scientist,"Houston, TX",$69K - $134K ,3.4,Just Energy
+648,Data Scientist,Remote5d,NaN,2.8,U.Group
+649,Data Scientist,"Lorton, VA",$50K - $86K ,4.3,Noblis
+650,Data Scientist,"Austin, TX",$98K - $122K ,3.6,Oxford Global Resources
+651,Data Scientist,"McLean, VA",$72K - $140K ,3.8,Mitre Corporation
+652,RN-Nurse Scientist,"Saint Louis, MO",$53K - $84K ,3.6,SSM Health
+653,Data Scientist,"Alexandria, VAEasy Apply20d",NaN,4.4,"Latitude, Inc."
+654,Data Scientist,"Estero, FL",$50K - $90K ,3,Hertz
+655,Data Scientist,"Alexandria, VA",$58K - $79K ,3.9,VTG
+656,Data Scientist,"Bethesda, MD",$122K - $127K ,4,Swain Techs
+657,Data Scientist,"Austin, TX",$92K - $149K ,4,eBay
+658,Data Scientist,"San Antonio, TX",$79K - $93K ,3.7,U.S. Department of Defense (DOD)
+659,Data Scientist,"Hanover, MD",$64K - $115K ,3.9,Jacobs
+660,Data Scientist,"Long Island City, NY",$80K - $138K ,2.9,Altice
+661,Data Scientist,"Annapolis Junction, MD",$66K - $124K ,4.8,BrainTrust Holdings
+662,"Data Scientist, Global Business Operations (Remote)","San Francisco, CA",$121K - $164K ,4.2,Splunk
+663,Data Scientist,"Philadelphia, PA",$49K - $85K ,3.4,goPuff
+664,Data Scientist,"San Francisco, CANewEasy Apply3d",NaN,NaN,The Beans
+665,Senior Data Scientist,RemoteNewEasy Apply24h,NaN,3.2,Grindr
+666,Data Scientist,"Boston, MA",$90K - $98K ,4,Massachusetts General Hospital(MGH)
+667,GBSD Data Scientist,"Roy, UT8d",NaN,4,Northrop Grumman
+668,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+669,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+670,Senior Data Scientist,Remote,$110K - $140K ,NaN,competitive balance analytics
+671,Data Scientist,"Centennial, CO.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}New1d",NaN,3.3,Arrow Electronics
+672,Data Scientist,Remote,$80K - $125K ,2.8,JM Talent Inc.
+673,Data Scientist - Wearables,Remote,$80K - $190K ,NaN,Invisalert Solutions
+674,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+675,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+676,Sr Data Scientist,"Salt Lake City, UT",$80K - $140K ,3.8,Zions Bancorporation
+677,Data Scientist,"Columbus, OH28d",NaN,3.4,Safelite Group
+678,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+679,Data Scientist,"Bentonville, AR4d",NaN,3.4,Walmart
+680,Data Scientist 1,"Burlington, MANew24h",NaN,3.7,Oracle
+681,Data Review Scientist,"Newark, DEHiring Surge24h",NaN,3.4,Charles River Laboratories
+682,Data Scientist,"Hillsboro, OR24h",NaN,4.2,Intel
+683,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+684,Data Scientist,"Salt Lake City, UT27d",NaN,NaN,Zartico
+685,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+686,Imaging Data Scientist,"Hillsboro, ORNew24h",NaN,4.2,Intel
+687,Data Scientist,"Los Altos, CAEasy Apply1d",NaN,NaN,"Alto Neuroscience, Inc."
+688,Data Science &amp; Analytics,"South Jordan, UT30d+",NaN,NaN,Digital Trike
+689,Data Scientist,Remote15d,NaN,3.8,O'Reilly Media
+690,Data Scientist,"Salt Lake City, UTHiring SurgeEasy Apply7d",NaN,4,Progrexion
+691,Data Scientist,"Lehi, UT",$70K - $90K ,4.6,Xyngular
+692,Junior Data Scientist,Remote30d+,NaN,3.1,FEDDATA
+693,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+694,Data Entry,RemoteNewEasy Apply2d,NaN,3,TransPerfect Translations Inc.
+695,Junior Data Scientist,Remote13d,NaN,2.9,NewWave HQ
+696,Data Scientist,United States15d,NaN,3.7,BSI
+697,Data Scientist,"Morrisville, PA",$68K - $118K ,4.3,MMIT Network
+698,Data Scientist,"San Jose, CATop Company20d",NaN,4.3,Cisco Systems
+699,Data Scientist,"Wilmington, MA",$82K - $143K ,3.8,Analog Devices
+700,"Research Scientist / Data Scientist, Open Rank, CCM","New York, NY",$98K - $189K ,4,Simons Foundation
+701,Data Scientist,"Chicago, ILHiring Surge20d",NaN,4.1,Cboe Global Markets
+702,Data Scientist,"Columbia, MD26d",NaN,3.3,ASCEND
+703,Data Scientist,"Boston, MA",$95K - $126K ,NaN,Medical Analytics Group
+704,Data Scientist,"New York, NY26d",NaN,3.1,CVS Health
+705,Data Scientist,"Washington, DC",$74K - $126K ,3.4,XLA
+706,Marketing Data Analyst – Remote,"Philadelphia, PA",$50K - $62K ,4.7,The Denzel Group
+707,"Data Scientist, Customer Intelligence - Opportunity for Working Remotely Phoenix, AZ","Phoenix, AZ",$97K - $141K ,4.3,VMware
+708,Data Scientist,"Beachwood, OHActively Hiring14d",NaN,3.6,Penske Truck Leasing and Logistics
+709,Data Scientist,"Annapolis Junction, MD",$74K - $123K ,5,ELEVI Associates
+710,Computer Vision / Machine Learning Engineer,"Tewksbury, MA",$123K - $137K ,3.9,Leidos
+711,Product Data Scientist (Multiple Locations),RemoteEasy Apply20d,NaN,4.3,Evidation
+712,Graph Data Engineer / Analyst,"Washington, DC",$69K - $118K ,4.1,ASR ANALYTICS LLC
+713,Data Scientist,"Oak Ridge, TN",$68K - $135K ,3.7,BWX Technologies
+714,Cloud &amp; Machine Learning Engineer,"Hartford, CT",$82K - $142K ,4.1,"The Travelers Companies, Inc."
+715,Data Scientist,"Washington, DC",$72K - $128K ,5,"Reports and Requirements Company, LLC"
+716,Senior/Principal Machine Learning Engineer - Direct Hire,"Denver, COEasy Apply24h",NaN,NaN,The Doyle Group
+717,Data Scientist,"New York, NY",$77K - $157K ,3.9,J.Crew
+718,Data Scientist,"Plano, TX",$72K - $128K ,4.2,MATRIX Resources
+719,Data Scientist,"Quantico, VA16d",NaN,5,Clear Ridge Defense
+720,Business Data Analyst,"Mountain View, CA",$71K - $130K ,4.4,Intuit
+721,Medical Laboratory Scientist 2 – VUMC Diagnostic Molecular DNA Laboratories,"Nashville, TN",$42K - $68K ,3.8,Vanderbilt University Medical Center
+722,Lead Advanced Healthcare Data Analyst,"Corpus Christi, TX",$39K - $80K ,4.1,Driscoll Children's Hospital
+723,Tableau Admin / Data Analyst,"Roy, UT",$40K - $82K ,3.9,BAE Systems
+724,Data Scientist,"Chicago, IL",$63K - $106K ,4.1,AVANADE
+725,Cloud &amp; Machine Learning Engineer,"Hartford, CT",$82K - $142K ,4.1,"The Travelers Companies, Inc."
+726,Data Scientist,"Washington, DC",$72K - $128K ,5,"Reports and Requirements Company, LLC"
+727,Data Scientist,"New York, NY",$77K - $157K ,3.9,J.Crew
+728,Data Scientist,"Plano, TX",$72K - $128K ,4.2,MATRIX Resources
+729,Business Data Analyst,"Mountain View, CA",$71K - $130K ,4.4,Intuit
+730,Medical Laboratory Scientist 2 – VUMC Diagnostic Molecular DNA Laboratories,"Nashville, TN",$42K - $68K ,3.8,Vanderbilt University Medical Center
+731,Data Scientist,"Quantico, VA16d",NaN,5,Clear Ridge Defense
+732,Lead Advanced Healthcare Data Analyst,"Corpus Christi, TX",$39K - $80K ,4.1,Driscoll Children's Hospital
+733,Data Scientist,Remote.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply21d,NaN,3.2,"Central Business Solutions, Inc"
+734,Senior/Principal Machine Learning Engineer - Direct Hire,"Denver, COEasy Apply24h",NaN,NaN,The Doyle Group
+735,Data Scientist,"Boston, MA",$72K - $126K ,3.8,Thermo Fisher Scientific
+736,Mgr Data Analytics 2/ Public Health Data Scientist,"Atlanta Central City Post Offi, GA",$78K - $150K ,4,Northrop Grumman
+737,Data Scientist,"Chicago, IL",$63K - $106K ,4.1,AVANADE
+738,Senior Data Scientist / Engineer,"Chicago, ILEasy Apply15d",NaN,NaN,"AMI Group, LLC"
+739,Data Scientist,"Sarasota, FL",$59K - $113K ,4.1,Certified Collectibles Group
+740,Attending Veterinarian / Principal Scientist,"San Diego, CA",$65K - $156K ,3.4,Absorption Systems
+741,"Data Scientist, Customer Intelligence - Opportunity for Working Remotely Dallas, TX","Dallas, TX",$86K - $157K ,4.3,VMware
+742,Data Scientist,"New York, NY",$93K - $173K ,3.8,"JPMorgan Chase Bank, N.A."
+743,Data Scientist,"Boston, MANewEasy Apply1d",NaN,4,CyberCoders
+744,Data Scientist,"Atlanta, GA",$102K - $116K ,3.8,General Dynamics Information Technology
+745,Data Scientist - Top Secret Agile,"Reston, VAEasy Apply2d",NaN,NaN,AVTC Group
+746,"Director, Applied Statistical Data Sciences | Economic Consulting","New York, NY",$106K - $179K ,4,"FTI Consulting, Inc."
+747,Data Engineer,"Charlotte, NC4d",NaN,2.5,AccruePartners
+748,Lead Clinical Laboratory Scientist,"Newport Beach, CA",$56K - $100K ,2.1,"HRC Fertility Management, LLC"
+749,Affordability Analyst/Data Scientist,"Laurel, MD",$100K - $160K ,4.7,Johns Hopkins Applied Physics Laboratory (APL)
+750,Data Scientist,"Fort Worth, TX",$103K - $117K ,4.1,Bell Textron Inc.
+751,Senior Data Analyst,"Greenwich, CT",$62K - $105K ,3.5,WINFertility
+752,Chief Research Scientist- Wireless,"Red Bank, NJ22d",NaN,3.5,Perspecta
+753,"Senior, Data Scientist","New York, NY",$95K - $177K ,3.4,Macy’s
+754,Data Scientist,"Chicago, IL",$76K - $126K ,4,Hitachi Solutions
+755,Data Scientist,Remote.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply5d,NaN,3.6,Samsara
+756,Data Scientist,"Annapolis Junction, MD",$73K - $126K ,4.6,Entegra Systems
+757,Research Fellow - Data Science,"Rochester, MN",$48K - $91K ,4.2,Mayo Clinic
+758,Data Scientist,"Washington, DC",$70K - $123K ,3.7,QVine Corporation
+759,Data Scientist,CaliforniaNewEasy Apply24h,NaN,NaN,Doorstead
+760,Data Scientist,"Plano, TX",$68K - $130K ,3.7,Cognizant Technology Solutions
+761,Data Scientist,Remote15d,NaN,3.8,O'Reilly Media
+762,Data Scientist,"San Jose, CAEasy Apply25d",NaN,4.8,Riderflex
+763,Data Scientist,"Germantown, MD",$70K - $128K ,3.6,DataLab USA
+764,Data Scientist,"San Francisco, CA",$130K - $150K ,4.7,Angaza
+765,Data Scientist,"Palo Alto, CAHot25d",NaN,5,ScaleMonk
+766,Data Scientist,"Kansas City, MO",$72K - $135K ,4.8,Generation Esports
+767,Data Scientist,RemoteHot11d,NaN,5,JupiterOne
+768,Data Scientist,RemoteNew1d,NaN,4.8,Clipboard Health
+769,Data Scientist,"Dallas, TX",$67K - $119K ,3.8,Havas
+770,Data Scientist,"Reston, VA",$67K - $125K ,3.6,MetroStar
+771,Data Scientist,"Redwood City, CA",$101K - $121K ,4.2,Exact Sciences Corporation
+772,"Business Intelligence Analyst - Richmond, VA","Richmond, VA",$47K - $86K ,3.5,Lansing Building Products
+773,Data Scientist,"Madison, WI",$60K - $110K ,NaN,"The Cadmus Group, Inc."
+774,Data Scientist,"Piscataway, NJHiring Surge21d",NaN,4.3,Scalable Systems
+775,Data Scientist,"Arlington, VA",$68K - $114K ,3.9,Grant Thornton
+776,Data Scientist,"Saint Louis, MO",$72K - $116K ,4.3,Nestle Purina PetCare Company
+777,Data Scientist,"Norfolk, VA",$134K - $164K ,4.2,ManTech International Corporation
+778,Data Scientist,RemoteEasy Apply5d,NaN,2.8,Syntellis Performance Solutions
+779,Data Scientist,"Herndon, VA",$80K - $121K ,NaN,Cognowiz Solutions
+780,Staff Data Scientist,"San Diego, CA",$104K - $175K ,4.4,Intuit
+781,Data Scientist,Remote24h,NaN,4.7,International WELL Building Institute
+782,Data Scientist,"Denver, CO",$69K - $118K ,3.6,Wunderman Thompson
+783,Data Scientist,"Palo Alto, CA.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hot25d",NaN,5,ScaleMonk
+784,Data Scientist,RemoteHot11d,NaN,5,JupiterOne
+785,Data Scientist,RemoteNew1d,NaN,4.8,Clipboard Health
+786,Data Scientist,"Reston, VA",$67K - $125K ,3.6,MetroStar
+787,Data Scientist,"Dallas, TX",$67K - $119K ,3.8,Havas
+788,Data Scientist,CaliforniaNewEasy Apply24h,NaN,NaN,Doorstead
+789,"Business Intelligence Analyst - Richmond, VA","Richmond, VA",$47K - $86K ,3.5,Lansing Building Products
+790,Data Scientist,"Redwood City, CA",$101K - $121K ,4.2,Exact Sciences Corporation
+791,Data Scientist,"Menlo Park, CA",$89K - $143K ,3.7,Exponent
+792,Data Scientist,"Piscataway, NJHiring Surge21d",NaN,4.3,Scalable Systems
+793,Data Scientist,"Saint Louis, MO",$72K - $116K ,4.3,Nestle Purina PetCare Company
+794,Data Scientist,"Arlington, VA",$68K - $114K ,3.9,Grant Thornton
+795,Data Scientist,RemoteEasy Apply5d,NaN,2.8,Syntellis Performance Solutions
+796,Data Scientist,"Norfolk, VA",$134K - $164K ,4.2,ManTech International Corporation
+797,Data Scientist,"Fairfax, VA",$76K - $142K ,3.6,Trident Systems Inc
+798,Data Scientist,"Denver, CO",$69K - $118K ,3.6,Wunderman Thompson
+799,Data Scientist,Remote24h,NaN,4.7,International WELL Building Institute
+800,Data Scientist,"Dallas, TX",$122K - $137K ,4.5,Tiger Analytics
+801,Data Scientist,"Madison, WI",$60K - $110K ,NaN,"The Cadmus Group, Inc."
+802,Data Scientist,RemoteEasy Apply5d,NaN,5,LifeBell AI
+803,Data Scientist,"New York, NY",$96K - $174K ,3.4,"comScore, Inc."
+804,Data Scientist,Remote4d,NaN,3.5,Q2ebanking
+805,Data Scientist,"Suitland, MD",$75K - $144K ,5,"WhirlWind Technologies, LLC"
+806,Data Scientist,"New Haven, CT",$39K - $81K ,3.4,Cogstate
+807,Data Scientist,"Washington, DC",$86K - $174K ,3.6,"Foxhole Technology, Inc."
+808,Data Scientist,VirginiaEasy Apply13d,NaN,4.2,"Interos, Inc."
+809,Data Scientist,"Kearny, NJ",$74K - $130K ,4,Oishii
+810,Data Scientist,Remote5d,NaN,4.2,AlphaSights
+811,Data Scientist,"Herndon, VA",$80K - $121K ,NaN,Cognowiz Solutions
+812,Artificial Intelligence/Machine Learning Data Scientist,United States30d+,NaN,3.8,Mitre Corporation
+813,Data Review Scientist,"Newark, DE.css-1831hoy{color:#ea7600;text-align:right;line-height:20px !important;}.css-jcbnij{color:#ea7600;text-align:right;line-height:20px !important;font-size:12px !important;font-weight:bold !important;}Hiring Surge24h",NaN,3.4,Charles River Laboratories
+814,Jr. Data Engineer - (Hire and Train),"Tampa, FL5d",NaN,3.7,Cognizant Technology Solutions
+815,Data Scientist,"Centennial, CONew1d",NaN,3.3,Arrow Electronics
+816,Data Science Intern,Remote,$17 Per Hour,4.7,Noodle
+817,Data Specialist,RemoteNew24h,NaN,4.6,Haptik
+818,Data Scientist,Remote,$75K - $120K ,NaN,ForMotiv
+819,Data Scientist,"Chevy Chase, MD30d+",NaN,3.5,GEICO
+820,Machine Learning Data Scientist,"San Francisco, CA5d",NaN,4.9,Oura
+821,Computational Biologist / Data Scientist,"Cambridge, MATop Company14d",NaN,4.2,Novartis
+822,Data Scientist,"New York, NYNew24h",NaN,3.7,AllianceBernstein
+823,Staff Data Scientist,"East Boston, MA30d+",NaN,3.6,"Alteryx, Inc."
+824,"Data Scientist, LTV - HBO Max","Bunker Hill Towers, CA30d+",NaN,3.7,HBO Max
+825,Biological Data Scientist,"Richland, WA24h",NaN,4.2,Pacific Northwest National Laboratory
+826,Venmo Risk Data Scientist,"Chicago, ILTop Company24h",NaN,4.1,PayPal
+827,Data Scientist 1,"Timonium, MDTop Company4d",NaN,4.1,PayPal
+828,"Associate Data Scientist I, II, or III","Salt Lake City, UT30d+",NaN,3.7,"BioFire Diagnostics, LLC."
+829,Senior Data Scientist,"Austin, TX24h",NaN,4.5,Bumble
+830,Data Scientist,"San Francisco, CA",$250K - $450K ,4.7,Blue Owl
+831,Data Engineer,"Jersey City, NJNew1d",NaN,3.7,Cognizant Technology Solutions
+832,Hire and Train Data Scientist/ Engineer,"San Francisco, CA19d",NaN,3.7,Cognizant Technology Solutions
+833,Data Scientist - Remote Nationwide,"San Antonio, TX2d",NaN,3.6,UnitedHealth Group
+834,Machine Learning Engineer,"Mountain View, CA28d",NaN,3.9,TikTok
+835,Data Scientist - Entry Level,"Livermore, CATop Company12d",NaN,4.6,Lawrence Livermore National Laboratory
+836,Data Scientist - Entry Level,"Sacramento, CA30d+",NaN,NaN,Numerdox
+837,Sr. Data Scientist,Remote,$150K - $165K ,4,Innovar Group
+838,Data Scientist,Remote,$63 - $82 Per Hour,4.4,ids
+839,Data Scientist,"Austin, TX19d",NaN,4.3,YETI Coolers
+840,Data Scientist,Remote5d,NaN,2.8,U.Group
+841,Data Scientist,"Charlottesville, VA",$76K - $131K ,4.3,The Rector & Visitors of the University of Virginia
+842,Data Scientist,"Alexandria, VA.css-65p68w{line-height:20px !important;}.css-r3emcz{background:transparent;color:#505863;font-size:12px;font-weight:700;line-height:20px;padding:0;}Easy Apply20d",NaN,4.4,"Latitude, Inc."
+843,Data Scientist,"Lorton, VA",$50K - $86K ,4.3,Noblis
+844,Data Scientist,"Houston, TX",$69K - $134K ,3.4,Just Energy
+845,Data Scientist,"Austin, TX",$98K - $122K ,3.6,Oxford Global Resources
+846,Data Scientist,Remote5d,NaN,2.8,U.Group
+847,Data Scientist,"McLean, VA",$72K - $140K ,3.8,Mitre Corporation
+848,Data Scientist,"Tampa, FL",$53K - $91K ,4,VMD Corp
+849,Data Scientist,"Los Angeles, CA",$79K - $147K ,3,Gannett
+850,RN-Nurse Scientist,"Saint Louis, MO",$53K - $84K ,3.6,SSM Health
+851,Data Scientist,"Chantilly, VA",$89K - $126K ,3.9,NT Concepts
+852,Data Scientist,"Alexandria, VA",$58K - $79K ,3.9,VTG
+853,Data Scientist,"Columbia, MD",$78K - $142K ,4.2,Booz Allen Hamilton
+854,Data Scientist,"Annapolis Junction, MD",$66K - $124K ,4.8,BrainTrust Holdings
+855,Data Scientist,"Austin, TX",$92K - $149K ,4,eBay
+856,Data Scientist,"Estero, FL",$50K - $90K ,3,Hertz
+857,Data Scientist,"Bethesda, MD",$122K - $127K ,4,Swain Techs
+858,Data Scientist,"Boston, MA",$56K - $99K ,4,Massachusetts General Hospital(MGH)
+859,Data Scientist,"Hanover, MD",$64K - $115K ,3.9,Jacobs
+860,Data Scientist,"Long Island City, NY",$80K - $138K ,2.9,Altice
+861,Data Scientist,United States6d,NaN,3.3,ConcertAI
+862,"Data Scientist, Global Business Operations (Remote)","San Francisco, CA",$121K - $164K ,4.2,Splunk
+863,Data Scientist,"Philadelphia, PA",$49K - $85K ,3.4,goPuff
+864,Data Scientist,"Washington, DC",$62K - $105K ,3.6,ICF
+865,Senior Data Scientist,RemoteNewEasy Apply24h,NaN,3.2,Grindr
+866,Data Scientist,"San Francisco, CANewEasy Apply3d",NaN,NaN,The Beans
+867,Data Scientist,"Dallas, TX",$67K - $119K ,3.8,Havas
+868,Data Scientist,"Chicago, IL",$69K - $125K ,3.5,McDonald's Corporate
+869,Senior Data Scientist,"New York, NYHotEasy Apply12d",NaN,4.8,Venturi Group
