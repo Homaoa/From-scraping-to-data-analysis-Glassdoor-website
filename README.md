@@ -19,7 +19,7 @@ Packages: pandas, numpy, sklearn, matplotlib, seaborn, beautifulsoup
 Web Scraping  :
  
 
-I scraped glassdoor.com. using beautifulsoup and 870 job data were obtained. With each job, I got the following:
+I scraped glassdoor.com using beautifulsoup and 870 job data were obtained. With each job, I got the following:
 
 Job title
 
