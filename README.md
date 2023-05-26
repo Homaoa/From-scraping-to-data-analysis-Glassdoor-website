@@ -87,7 +87,7 @@ Grid Search is also used in order to tune the parameters for Random Forest model
 Model performance  :
 
 
-The Random Forest model outperformed the other approaches on the train and test sets.
+The Random Forest model outperformed the other models.
 
 
 
