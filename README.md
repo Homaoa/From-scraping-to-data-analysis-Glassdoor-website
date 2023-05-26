@@ -68,9 +68,12 @@ First, I transformed the categorical variables into dummy variables. I then spli
 
 I tried four different models and evaluated them using R2 score. I chose R2 because it is relatively easy to interpret.
 
+
 I tried these four different models:
 
+
 Multiple Linear Regression ,  Lasso Regression ,  Polynomial ,  Random Forest 
+
 
 I also used K-Fold cross validation to check and compare the performance of different Machine Learning models.
 
