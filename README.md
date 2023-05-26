@@ -78,6 +78,10 @@ Polynomial
 
 Random Forest 
 
+I also used K-Fold cross validation to check and compare the performance of different Machine Learning models.
+
+Grid Search is also used in order to tune the parameters for Random Forest model.
+
 
 
 Model performance  :
