@@ -73,7 +73,7 @@ I tried these four different models:
 
 
 
-Multiple Linear Regression ,  Lasso Regression ,  Polynomial ,  Random Forest 
+                    Multiple Linear Regression ,  Lasso Regression ,  Polynomial ,  Random Forest 
 
 
 
