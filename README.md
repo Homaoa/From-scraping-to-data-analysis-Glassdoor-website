@@ -70,13 +70,7 @@ I tried four different models and evaluated them using R2 score. I chose R2 beca
 
 I tried these four different models:
 
-Multiple Linear Regression 
-
-Lasso Regression 
-
-Polynomial
-
-Random Forest 
+Multiple Linear Regression ,  Lasso Regression ,  Polynomial ,  Random Forest 
 
 I also used K-Fold cross validation to check and compare the performance of different Machine Learning models.
 
